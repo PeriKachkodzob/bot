@@ -32,6 +32,4 @@ def main():
             send_mess(chat_id, text)
             update_id += 1
         sleep(5)       
-
-if __name__ == '__main__':  
-    main()
+main()
